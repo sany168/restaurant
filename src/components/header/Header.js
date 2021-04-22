@@ -1,9 +1,13 @@
 import React from 'react';
+import Navigation from './Navigation';
 
 const Header = () => {
     return(
         <div>
-             <h1>Hiiiiiiiiiii hello oi</h1>   
+             <Navigation/>
+
+
+
         </div>
 
     );
